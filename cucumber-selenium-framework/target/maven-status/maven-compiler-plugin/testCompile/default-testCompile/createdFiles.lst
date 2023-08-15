@@ -1,0 +1,4 @@
+stepDefinitons\Hooks.class
+stepDefinitons\ShopPageStepDefinition.class
+runners\HomePageRunner.class
+stepDefinitons\HomePageStepDefinition.class
